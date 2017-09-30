@@ -9,7 +9,7 @@
     tools:showIn="@layout/activity_login">
 
     <TextView
-        android:background="#FF0000"
+        android:background="#FFFF00"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
